@@ -1,0 +1,11 @@
+{
+  "version": 901,
+  "mobile": {
+    "url": "https://github.com/efem-inc/nutrition-off-data/releases/download/food-db-test/nutritionSQLite.zip",
+    "bytes": 3102413
+  },
+  "desktop": {
+    "url": "https://github.com/efem-inc/nutrition-off-data/releases/download/food-db-test/nutritionSQLite.zip",
+    "bytes": 3102413
+  }
+}
