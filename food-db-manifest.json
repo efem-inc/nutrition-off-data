@@ -1,11 +1,11 @@
 {
-  "version": 2,
+  "version": 3,
   "mobile": {
-    "url": "https://github.com/efem-inc/nutrition-off-data/releases/download/food-db-v2/nutritionSQLite.zip",
-    "bytes": 632046432
+    "url": "https://github.com/efem-inc/nutrition-off-data/releases/download/food-db-v3/nutritionSQLite.zip",
+    "bytes": 672725225
   },
   "desktop": {
-    "url": "https://github.com/efem-inc/nutrition-off-data/releases/download/food-db-v2/nutrition-sqlite.zip",
-    "bytes": 721014178
+    "url": "https://github.com/efem-inc/nutrition-off-data/releases/download/food-db-v3/nutrition-sqlite.zip",
+    "bytes": 760546199
   }
 }
